@@ -1,50 +1,34 @@
-# React + TypeScript + Vite
+# DOCUMENT EDITOR
+c
+*COMPANY* : CODTECH IT SOLUTIONS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*NAME* : KARTHIKEYAN.T
 
-Currently, two official plugins are available:
+*INTERN ID* : CT04DY2066
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*DOMAIN NAME* : FULL STACK WEB DEVELOPMENT
 
-## Expanding the ESLint configuration
+*DURATION* : 4-WEEKS
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+*MENTOR* : NEELA SANTHOSH
+The Real-Time Collaborative Document Editor is a cloud-based web application that allows multiple users to create, edit, and share documents simultaneously. It is built using Node.js, Express, and Socket.io for real-time synchronization of document changes across all connected clients. The application is containerized using Docker, ensuring easy deployment, scalability, and environment consistency across systems.
 
-- Configure the top-level `parserOptions` property like this:
+This project focuses on enabling seamless collaboration, where every keystroke and update is reflected instantly for all users. The editor provides a clean and interactive interface, ideal for team projects, note sharing, and online document management.
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+Key Features:
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+Real-time document editing using Socket.io
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+Multi-user collaboration with live updates
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Docker containerization for scalable deployment
+
+Secure and efficient Node.js + Express backend
+
+Auto-sync and conflict-free editing
+
+Simple and responsive front-end interface
+
+Optional features: version history, user presence, and access control
+
+*OUTPUT SCREENSHOTS :
