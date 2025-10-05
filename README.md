@@ -25,7 +25,5 @@ Secure and efficient Node.js + Express backend
 Auto-sync and conflict-free editing
 Simple and responsive front-end interface
 
-Output screenshot : 
-Optional features: version history, user presence, and access control
 
 *OUTPUT SCREENSHOTS : 
