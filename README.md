@@ -11,6 +11,7 @@ c
 *DURATION* : 4-WEEKS
 
 *MENTOR* : NEELA SANTHOSH
+
 The Real-Time Collaborative Document Editor is a cloud-based web application that allows multiple users to create, edit, and share documents simultaneously. It is built using Node.js, Express, and Socket.io for real-time synchronization of document changes across all connected clients. The application is containerized using Docker, ensuring easy deployment, scalability, and environment consistency across systems.
 
 This project focuses on enabling seamless collaboration, where every keystroke and update is reflected instantly for all users. The editor provides a clean and interactive interface, ideal for team projects, note sharing, and online document management.
