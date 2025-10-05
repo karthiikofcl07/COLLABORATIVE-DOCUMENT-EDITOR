@@ -19,17 +19,11 @@ This project focuses on enabling seamless collaboration, where every keystroke a
 Key Features:
 
 Real-time document editing using Socket.io
-
 Multi-user collaboration with live updates
-
 Docker containerization for scalable deployment
-
 Secure and efficient Node.js + Express backend
-
 Auto-sync and conflict-free editing
-
 Simple and responsive front-end interface
-
 Optional features: version history, user presence, and access control
 
-*OUTPUT SCREENSHOTS :
+*OUTPUT SCREENSHOTS :https://github.com/karthiikofcl07/COLLABORATIVE-DOCUMENT-EDITOR/issues/1
